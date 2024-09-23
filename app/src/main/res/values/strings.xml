@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">yo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="linkedin_url">https://www.linkedin.com/in/carlos-berrios-758646313?trk=contact-info</string>
+    <string name="whatsapp_url">https://wa.me/56997628610</string>
+    <string name="gmail_url">mailto:cberriost@gmail.com?subject=Felicidades%20te%20sacaste%20un%20azul%20en%20el%20Sprint%20del%20modulo%204%20%3AD</string>
+    <string name="onlyfans_url">https://www.tiktok.com/@excellentyerry582/video/7352248346758712582</string>
+</resources>
