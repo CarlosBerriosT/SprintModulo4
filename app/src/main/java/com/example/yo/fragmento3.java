@@ -45,7 +45,7 @@ public class fragmento3 extends Fragment {
         binding.linkedinButton.setOnClickListener(v -> openUrl("https://www.linkedin.com/in/carlos-berrios-758646313?trk=contact-info"));
         binding.whatsappButton.setOnClickListener(v -> openUrl("https://wa.me/56997628610"));
         binding.gmailButton.setOnClickListener(v -> openEmail("cberriost@gmail.com", "Felicidades te sacaste un azul en el Sprint del modulo 4 :D"));
-        binding.onlyfansButton.setOnClickListener(v -> openUrl("https://www.tiktok.com/@excellentyerry582/video/7352248346758712582"));
+        binding.onlyfansButton.setOnClickListener(v -> openUrl("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXSg5TX9sgOHJDPycZsf63HEXX6Lb4luhmg&s"));
     }
 
     private void loadImageFromAssets(String fileName) {
